@@ -3,6 +3,11 @@ import java.util.Collections;
 import java.util.Random;
 
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Random;
+
+
 public class Card implements Comparable{
 	ArrayList<Type> decky;
 	int k=0;
@@ -73,4 +78,3 @@ public class Card implements Comparable{
 	
 		
 }
-
